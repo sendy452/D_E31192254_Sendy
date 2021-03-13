@@ -9,4 +9,4 @@ c. Kode 3
 d. Kode 4
 ![image](https://user-images.githubusercontent.com/40889525/111039345-2bb5e580-8460-11eb-8599-7748c8491289.png)
 
-## Latihan
+## Soal/Tugas
