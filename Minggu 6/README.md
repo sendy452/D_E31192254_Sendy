@@ -10,3 +10,6 @@ d. Kode 4
 ![image](https://user-images.githubusercontent.com/40889525/111039345-2bb5e580-8460-11eb-8599-7748c8491289.png)
 
 ## Soal/Tugas
+
+Tugas no. 2
+![image](https://user-images.githubusercontent.com/40889525/111056639-32217d00-84b3-11eb-8b7e-65ee55cdf0d1.png)
