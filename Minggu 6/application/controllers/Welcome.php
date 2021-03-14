@@ -33,4 +33,28 @@ class Welcome extends CI_Controller {
         
         echo "<script>window.alert('".$model->alert."');</script>";
     }
+    public function variabel(){
+        $this->load->model('Hello_model');
+        $model = $this->Hello_model;
+        
+        $a = $model->mahasiswa[0]['nama'];
+        $b = $model->mahasiswa[1]['nama'];
+        $c = $model->mahasiswa[2]['nama'];
+        
+        $d = $model->mahasiswa[0]['nim'];
+        $e = $model->mahasiswa[1]['nim'];
+        $f = $model->mahasiswa[2]['nim'];
+        
+        $g = $model->mahasiswa[0]['gol'];
+        $h = $model->mahasiswa[1]['gol'];
+        $i = $model->mahasiswa[2]['gol'];
+        
+        $data['tampil'] = [
+            ['nama' => $a, 'nim' => $d, 'gol' => $g],
+            ['nama' => $b, 'nim' => $e, 'gol' => $h],
+            ['nama' => $c, 'nim' => $f, 'gol' => $i]
+        ];
+        
+        $this->load->view('hasilvariabel', $data);
+    }
 }
