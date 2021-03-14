@@ -13,3 +13,7 @@ d. Kode 4
 
 Tugas no. 2
 ![image](https://user-images.githubusercontent.com/40889525/111056639-32217d00-84b3-11eb-8b7e-65ee55cdf0d1.png)
+Tugas no. 3
+![image](https://user-images.githubusercontent.com/40889525/111057020-b9242480-84b6-11eb-85a6-ff980223e7f3.png)
+Tugas no. 4
+![image](https://user-images.githubusercontent.com/40889525/111058225-86caf500-84bf-11eb-812e-35042a7943c0.png)
