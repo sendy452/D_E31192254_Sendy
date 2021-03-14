@@ -30,9 +30,7 @@ class Welcome extends CI_Controller {
         
         $this->load->model('Hello_model');
         $model = $this->Hello_model;
-       
-        $data['alert'] = $model->alert;
         
-        $this->load->view('pesan', $data);
+        echo "<script>window.alert('".$model->alert."');</script>";
     }
 }
