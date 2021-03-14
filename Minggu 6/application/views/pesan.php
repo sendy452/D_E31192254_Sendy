@@ -1,0 +1,1 @@
+<script>window.alert('<?php echo $alert;?>');</script>

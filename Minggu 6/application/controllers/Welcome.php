@@ -26,4 +26,13 @@ class Welcome extends CI_Controller {
         $data['golongan'] = "D";
 		$this->load->view('welcome_message', $data);
 	}
+    public function message(){
+        
+        $this->load->model('Hello_model');
+        $model = $this->Hello_model;
+       
+        $data['alert'] = $model->alert;
+        
+        $this->load->view('pesan', $data);
+    }
 }
