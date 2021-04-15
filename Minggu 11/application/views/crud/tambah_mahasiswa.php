@@ -5,6 +5,7 @@
                     <h1 class="h4 text-gray-900 mb-4">Tambah User</h1>
                 </div>
                 <form class="user" action="<?= base_url('Mahasiswa/input');?>" method="post">
+                <!--apabila tombol di submit maka akan memproses data inputan ke function input yang ada pada controller Mahasiswa-->
                     <div class="form-group">
                         <input type="text" class="form-control form-control-user" id="username" name="username" placeholder="Username Maximal 10 Character" require>
                     </div>
