@@ -1,9 +1,8 @@
 ## Praktikum
-![image](https://user-images.githubusercontent.com/40889525/114813655-c3e71780-9ddc-11eb-8d0c-d62d0b682344.png)
-![image](https://user-images.githubusercontent.com/40889525/114813662-c8abcb80-9ddc-11eb-9f58-8190f9e85af0.png)
-![image](https://user-images.githubusercontent.com/40889525/114813671-cba6bc00-9ddc-11eb-9b40-20b2b80ca780.png)
-
+![image](https://user-images.githubusercontent.com/40889525/114813779-03adff00-9ddd-11eb-9ac0-14e22a009fa4.png)
+![image](https://user-images.githubusercontent.com/40889525/114813787-06a8ef80-9ddd-11eb-884e-8dddd3455565.png)
+![image](https://user-images.githubusercontent.com/40889525/114813799-09a3e000-9ddd-11eb-8bb6-830b5521aaba.png)
 
 ## Soal/Latihan
-![image](https://user-images.githubusercontent.com/40889525/114813685-cfd2d980-9ddc-11eb-9cb1-1992acf96038.png)
-![image](https://user-images.githubusercontent.com/40889525/114813693-d2cdca00-9ddc-11eb-9d2d-51cf5b23b5e0.png)
+![image](https://user-images.githubusercontent.com/40889525/114813804-0c9ed080-9ddd-11eb-8601-b9540f51416b.png)
+![image](https://user-images.githubusercontent.com/40889525/114813810-0f012a80-9ddd-11eb-8e10-44a38b49fda0.png)
